@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    DevSecOps project
+                    DevOps project
                 </Row>
   
                 <hr />
